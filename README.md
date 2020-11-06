@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/retry_on_error.svg)](https://badge.fury.io/rb/retry_on_error)
 [![Build Status](https://travis-ci.com/truecoach/retry_on_error.svg?branch=main)](https://travis-ci.com/truecoach/retry_on_error)
 
 # RetryOnError
